@@ -1,0 +1,13 @@
+# --- File: requirements.txt ---
+# This file lists all the Python packages required for the project.
+# Open a terminal in the project's root directory and run:
+# pip install -r requirements.txt
+# -------------------------------------------------------------------------
+
+streamlit
+pandas
+pyarrow
+scikit-learn
+pyngrok
+xgboost
+ 
